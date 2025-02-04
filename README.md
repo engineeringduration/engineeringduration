@@ -26,7 +26,7 @@ I'm a **B.Tech Computer Science and Business Systems** student passionate about 
 - Open-source contributions
 
 ## 📢 Let's Connect!
-[![LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rohit-mane-93b281333/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-mane-93b281333/) 
 
 
 📫 Reach out for collaborations, discussions, or just to connect!

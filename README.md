@@ -1,5 +1,7 @@
 # Hi there, I'm Rohit Mane 👋
-https://camo.githubusercontent.com/46d7175fcb0c178b374bb5c1f3767af8ad0dfad4277071d4200cc41a852879aa/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313130302f666f726d61743a776562702f312a5671307351373951495a56365631522d743771746d772e676966
+<div style="text-align: center;">
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" alt="Profile-gif" width="100%">
+</div>
 
 ## 🚀 About Me
 

@@ -19,7 +19,7 @@ I'm a **B.Tech Computer Science and Business Systems** student with a strong pas
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=engineeringduration&theme=algolia" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=engineeringduration&theme=algolia&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -61,6 +61,12 @@ Sharpening problem-solving skills through daily practice:
 [![InterviewBit](https://img.shields.io/badge/InterviewBit-1DA1F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjM2Y5NmYyIi8+PHBhdGggZD0iTTMwNCAzMDZIMTg0VjI2NEgzMDRWMzA2Wk0zMDQgMjY0SDE4NFYyMjRIMzA0VjI2NFpNMzA0IDIyNEgxODRWMTg0SDMwNFYyMjRaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)](https://www.interviewbit.com/profile/engineering-duration/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rohit_mane_01)
 
+---
+## ✍️ Blogs & Articles
+
+I love sharing what I learn through technical writing and tutorials.
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium-username)
 
 
 ---
